@@ -1,2 +1,8 @@
 # Project
 .idea
+
+# Node modules
+node_modules
+
+# dist
+dist
