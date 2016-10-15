@@ -105,7 +105,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    return Bonjour;
 	}(_react2.default.Component);
 
-	exports.default = BonjourBonjour;
+	exports.default = Bonjour;
 
 /***/ },
 /* 2 */

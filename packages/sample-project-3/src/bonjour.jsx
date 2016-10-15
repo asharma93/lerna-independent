@@ -5,4 +5,4 @@ class Bonjour extends React.Component {
         return <h1> Bonjour </h1>;
     }
 }
-export default BonjourBonjour;
+export default Bonjour;
