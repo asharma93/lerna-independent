@@ -6,7 +6,7 @@ module.exports = {
     output: {
         path: __dirname,
         filename: 'bundle.js',
-        library: 'sample-project-1',
+        library: 'sample-project-3',
         libraryTarget: 'umd'
     },
     resolve: {
