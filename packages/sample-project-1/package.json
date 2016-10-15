@@ -1,7 +1,7 @@
 {
   "name": "sample-project-1",
   "author": "Amit Sharma",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "main": "bundle.js",
   "dependencies": {
     "react": "^15.2.1"
