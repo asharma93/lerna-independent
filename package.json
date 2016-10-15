@@ -1,7 +1,7 @@
 {
   "name": "lerna-independent-ui",
   "author": "Amit Sharma",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "./dist/index.js",
   "scripts": {
     "build": "webpack && node scripts/build.js && npm run babel:build",
