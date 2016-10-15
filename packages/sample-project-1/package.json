@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "main": "bundle.js",
   "dependencies": {
-    "react": "^15.2.1"
+    "react": "^15.2.1",
+    "sample-project-3": "0.0.4"
   }
 }

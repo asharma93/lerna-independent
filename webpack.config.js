@@ -4,7 +4,8 @@ var webpack = require('webpack');
 module.exports = {
     entry: {
         sampleProject1: './packages/sample-project-1/src/index',
-        sampleProject2: './packages/sample-project-2/src/index'
+        sampleProject2: './packages/sample-project-2/src/index',
+        sampleProject3: './packages/sample-project-3/src/index'
     },
     output: {
         path: path.join(__dirname, 'dist'),
