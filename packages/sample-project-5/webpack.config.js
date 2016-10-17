@@ -2,15 +2,11 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-    entry: {
-        sampleProject1: './packages/sample-project-1/src/index',
-        sampleProject2: './packages/sample-project-2/src/index',
-        sampleProject3: './packages/sample-project-3/src/index',
-        sampleProject5: './packages/sample-project-5/src/index'
-    },
+    entry: './src/index.js',
     output: {
-        path: path.join(__dirname, 'dist'),
-        filename: '[name].bundle.js',
+        path: __dirname,
+        filename: 'bundle.js',
+        library: 'sample-project-5',
         libraryTarget: 'umd'
     },
     resolve: {
