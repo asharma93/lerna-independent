@@ -382,7 +382,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            return _react2.default.createElement(
 	                'h1',
 	                null,
-	                ' Au revoir '
+	                ' Au revoir has changed '
 	            );
 	        }
 	    }]);
