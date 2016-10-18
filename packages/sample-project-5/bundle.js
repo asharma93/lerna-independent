@@ -97,7 +97,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            return _react2.default.createElement(
 	                'h1',
 	                null,
-	                ' Au revoir has changed '
+	                ' Au revoir has change - UI DEV!!! '
 	            );
 	        }
 	    }]);
